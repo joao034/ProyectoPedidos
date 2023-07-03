@@ -3,7 +3,7 @@
 
 El sistema distrubuido fue desarrollado bajo tecnología Microsoft, .Net y Xamarin. Cuenta con una aplicación de escritorio y una app móvil. La app de escritorio gestiona productos ofertados por tiendas. Por otro lado la app móvil se encarga de la compra y el delivery de los productos por medio de un intermediario.
 
-## Instación
+## Instalación
 
 Puedes clonar el repositorio con el comando:
 
